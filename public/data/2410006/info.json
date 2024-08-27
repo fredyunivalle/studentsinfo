@@ -1,11 +1,11 @@
 {
-    "nombre": "Carlos Daniel Corrales",
-    "edad": 21,
+    "nombre": "Luis Alberto Carabalí Rivera",
+    "edad": 28,
     "carrera": "Ingeniería de Sistemas",
     "semestre": 6,
-    "gustos": ["Videojuegos", "Codear", "Gym", "Parchar"],
-    "noGustos": ["Mentiras", "Cafe", "Comida de mar", "dormirme tarde"],
-    "foto": "https://lh3.googleusercontent.com/a/ACg8ocIVe1wu-0-WvYHdIS_HwsYte85oPC18wpKEM7v7ga7G_LCiuivG=s96-c-rg-br100"
+    "gustos": ["Videojuegos","Impresion 3d"],
+    "noGustos": ["Mentiras", "Café"],
+    "foto": "https://lh3.googleusercontent.com/a/ACg8ocKpwUGxgUq9-gohRfQ6lsjIMSFxCrO5v-pcZ45RF8CwKzGqvf9R=s96-c-rg-br100"
 }
 
   
