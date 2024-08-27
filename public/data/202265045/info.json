@@ -1,0 +1,10 @@
+{
+    "nombre": "Marvin valencia",
+    "edad": 18,
+    "carrera": "desarrollo de sofware",
+    "semestre": 5,
+    "gustos": ["motos", "Comer", "trabajar", "carros","jugar"],
+    "noGustos": ["confianza", "deslealtad"],
+    "foto": "https://avatars.githubusercontent.com/u/128555565?v=4&size=64"
+}
+  
