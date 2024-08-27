@@ -1,0 +1,11 @@
+{
+    "nombre": "Nicolas Granada",
+    "edad": 24,
+    "carrera": "Ing de Sistemas",
+    "semestre": 3,
+    "gustos": ["Musica", "Viajes", "Comer", "Jugar"],
+    "noGustos": ["Madrugar", "Poquita comida", "Ruido fuerte", "Matematicas"],
+    "foto": "https://lh3.googleusercontent.com/a/ACg8ocIE0w1ZeQKs93E0t_wob1CQjiiqdCwToeYz84y2Rh1Zkd9LRwEu=s96-c-rg-br100"
+}
+
+  
