@@ -1,0 +1,11 @@
+{
+    "nombre": "Victor Acuna",
+    "edad": 23,
+    "carrera": "Ing de Sistemas",
+    "semestre": 3,
+    "gustos": ["Musica", "Viajes", "Comer", "Jugar"],
+    "noGustos": ["Madrugar","Ruido fuerte", "Matematicas"],
+    "foto": "https://lh3.googleusercontent.com/a/ACg8ocIQWnI1XA43xjGxHSwXadfro_QHuE3pTtWleXvrLB8XIYcm4-A=s288-c-no"
+}
+
+  
