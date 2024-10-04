@@ -1,0 +1,19 @@
+{
+    "nombre": "Victor Daniel Acuña Salazar",
+    "edad": 23,
+    "carrera": "Ingeniería en sistemas",
+    "semestre": 3,
+    "gustos": [
+        "Fútbol",
+        "Videojuegos"
+        
+        
+    ],
+    "noGustos": [
+        "Madrugar",
+        "Matematicas"
+    
+    ],
+    "foto": "https://lh3.googleusercontent.com/a/ACg8ocI6ozjQ_WK69W__rqt2SAW6xf-x3vOw-LLmQ-aH9SaYBJcVtWMZ=s288-c-no",
+    "socialMedia": "https://www.facebook.com/daniel.acunasalazar"
+}
