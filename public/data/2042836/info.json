@@ -5,6 +5,7 @@
     "semestre": 6,
     "gustos": ["Futbol", "Juegos", "Series", "Gimnasio"],
     "noGustos": ["Uyucos", "Personas irresponsables"],
+    "redesSociales":["facebook", "instragram", "twitter"],
     "foto": "https://lh3.googleusercontent.com/a/ACg8ocKDd72ruLsaYq8Drjc_dSybGZrGgck9xbRx3ZUmIIPkVmZI4Q=s288-c-no"
 }
 

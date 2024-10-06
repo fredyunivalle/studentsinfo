@@ -2,9 +2,9 @@ const path = require('path');
 const fs = require('fs');
 
 // Ruta a la carpeta 'data'
-const infoJsonPath = path.join(__dirname, '../public/data/2041691/info.json');
+const infoJsonPath = path.join(__dirname, '../public/data/2042836/info.json');
 
-describe('Verificación del archivo info.json en la carpeta 2041691', () => {
+describe('Verificación del archivo info.json en la carpeta 2042836', () => {
     it('debe existir el archivo info.json', () => {
         // Verifica si el archivo info.json existe
         expect(fs.existsSync(infoJsonPath)).toBe(true);
@@ -12,7 +12,7 @@ describe('Verificación del archivo info.json en la carpeta 2041691', () => {
 });
 
 
-describe('Validación de la estructura de info.json en la carpeta 2041691 - Estudiante: Kevin Ipia', () => {
+describe('Validación de la estructura de info.json en la carpeta 2042836 - Estudiante: Alan Valderrama', () => {
     it('el archivo info.json debe tener la estructura correcta', () => {
         // Verifica si el archivo info.json existe antes de intentar leerlo
         if (fs.existsSync(infoJsonPath)) {
