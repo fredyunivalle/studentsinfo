@@ -6,12 +6,13 @@
     "gustos": ["videjojuegos",
         "futbol",
         "viajar",
-        "peliculas"],
+        "peliculas"
+    ],
     "noGustos": [
         "Despertarse temprano", 
         "No cumplir con lo deseado"
     ],
-    "foto": "https://instagram.fclo7-1.fna.fbcdn.net/v/t51.2885-19/454766192_363245496831088_5863934441469997740_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fclo7-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=gvHn2wXfG7EQ7kNvgGE5jSU&_nc_gid=7aa36b257c6f4caabc637fd41b14dcd9&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AYC40km9OHlAT49cZF6yl1EnVN2WB7zvFQ7x0eRqAPNszQ&oe=67091982&_nc_sid=7a9f4b",
+    "foto": "https://lh3.googleusercontent.com/a/ACg8ocJdkPclcB3WV9ZlCn3mABNd6CJp5Ftky8BuguplH0BZpthKwD6peg=s288-c-no",
     "socialMedia": "https://www.instagram.com/juliandavid_/"
 }
   
