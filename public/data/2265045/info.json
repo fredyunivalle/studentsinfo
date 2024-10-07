@@ -1,0 +1,19 @@
+{
+    "nombre": "MARVIN YESSID VALENCIA OLMOS",
+    "edad": 19,
+    "carrera": "tecnologia en desarrollo de sofware ",
+    "semestre": 6,
+    "gustos": [
+        "comer",
+        "motos",
+        "carros",
+        "compartir con mis cercanos",
+        "salir"
+    ],
+    "noGustos": [
+        "madrugar",
+        "las personas confiazudad"
+    ],
+    "foto": "https://avatars.githubusercontent.com/u/128555565?v=4&size=64",
+    "socialMedia": "https://www.facebook.com/marvin.olmos.961/?locale=es_LA"
+}

@@ -2,16 +2,18 @@
     "nombre": "Kevin Steven Trujillo",
     "edad": 22,
     "carrera": "Ingeniería en sistemas",
-    "semestre": 5,
+    "semestre": 12,
     "gustos": [
         "Rugby",
         "Violin",
         "Natacion",
-        "Basketball"
+        "Basketball",
+        "backend"
     ],
     "noGustos": [
-        "Despertarse temprano",
+        "trabajar en la tarde",
         "Comida picante"
     ],
-    "foto": "https://lh3.googleusercontent.com/a/ACg8ocI4xuFgbrsQf1981gagjmlhtZNsXcFLFb89jIlpsYh4viXyi1o=s288-c-no"
+    "foto": "https://lh3.googleusercontent.com/a/ACg8ocI4xuFgbrsQf1981gagjmlhtZNsXcFLFb89jIlpsYh4viXyi1o=s288-c-no",
+    "socialMedia": "https://www.facebook.com/kevinsteven.trujilloriascos/"
 }

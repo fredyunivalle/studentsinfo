@@ -1,10 +1,18 @@
 {
-    "nombre": "Erika Garcia",
-    "edad": 25,
-    "carrera": "Ingeniería d Sistemas",
-    "semestre": 5,
-    "gustos": ["musica", "Comer", "cine", "Viajar"],
-    "noGustos": ["Despertarse temprano", "Comida picante"],
-    "foto": "https://vicebienestar.univalle.edu.co/media/k2/items/cache/42a35505dabe860dcdeb51f92d5be768_L.jpg"
+  "nombre": "Erika Garcia",
+  "edad": 25,
+  "carrera": "Ingeniería d Sistemas",
+  "semestre": 5,
+  "gustos": [
+    "musica",
+    "Comer",
+    "cine",
+    "Viajar"
+  ],
+  "noGustos": [
+    "Despertarse temprano",
+    "Comida picante"
+  ],
+  "foto": "https://lh3.googleusercontent.com/a/ACg8ocLARP16xf1u8TNlJQBxi_RVr3AxGmjBJlmznSiSh-ga1_uqRsL_=s288-c-no",
+  "socialMedia":"facebook"
 }
-  
