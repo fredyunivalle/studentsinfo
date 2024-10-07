@@ -1,0 +1,18 @@
+{
+    "nombre": "Julian David Muñoz Gomez",
+    "edad": 21,
+    "carrera": "Tecnologia en Desarrollo de software",
+    "semestre": 6,
+    "gustos": ["videjojuegos",
+        "futbol",
+        "viajar",
+        "peliculas"
+    ],
+    "noGustos": [
+        "Despertarse temprano", 
+        "No cumplir con lo deseado"
+    ],
+    "foto": "https://lh3.googleusercontent.com/a/ACg8ocJdkPclcB3WV9ZlCn3mABNd6CJp5Ftky8BuguplH0BZpthKwD6peg=s288-c-no",
+    "socialMedia": "https://www.instagram.com/juliandavid_/ "
+}
+  
