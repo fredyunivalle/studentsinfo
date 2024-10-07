@@ -3,8 +3,15 @@
     "edad": 21,
     "carrera": "Tecnologia en Desarrollo de software",
     "semestre": 6,
-    "gustos": ["videjojuegos","futbol","viajar","peliculas"],
-    "noGustos": ["Despertarse temprano", "No cumplir con lo deseado"],
-    "foto": "https://vicebienestar.univalle.edu.co/media/k2/items/cache/42a35505dabe860dcdeb51f92d5be768_L.jpg"
+    "gustos": ["videjojuegos",
+        "futbol",
+        "viajar",
+        "peliculas"],
+    "noGustos": [
+        "Despertarse temprano", 
+        "No cumplir con lo deseado"
+    ],
+    "foto": "https://instagram.fclo7-1.fna.fbcdn.net/v/t51.2885-19/454766192_363245496831088_5863934441469997740_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fclo7-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=gvHn2wXfG7EQ7kNvgGE5jSU&_nc_gid=7aa36b257c6f4caabc637fd41b14dcd9&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AYC40km9OHlAT49cZF6yl1EnVN2WB7zvFQ7x0eRqAPNszQ&oe=67091982&_nc_sid=7a9f4b",
+    "socialMedia": "https://www.instagram.com/juliandavid_/"
 }
   
