@@ -1,0 +1,8 @@
+{
+    "nombre": "John Ramos",
+    "edad": 21,
+    "carrera": "Ingenieria de sistemas",
+    "semestre": 3,
+    "gustos": ["Videojuegos", "Series", "Futbol", "comida picante"],
+    "noGustos": ["Despertarse temprano", "Largas jornadas de estudio", "Ruido fuerte", "Tareas largas"]
+}
