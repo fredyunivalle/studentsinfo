@@ -1,0 +1,9 @@
+{
+    "nombre": "Juan José Padilla Cuéllar",
+    "edad": 22,
+    "carrera": "Ingeniería de Sistemas",
+    "semestre": 6,
+    "gustos": ["Videojuegos", "Fisica", "Ciberseguridad", "Peliculas/Series"],
+    "noGustos": ["Madrugar", "Hacer tareas", "Grupos grandes de personas", "El transporte publico"],
+    "foto": ""
+}

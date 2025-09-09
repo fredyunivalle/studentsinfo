@@ -1,0 +1,11 @@
+{
+    "nombre": "Jonathan Aristizabal Vargas",
+    "edad": 25,
+    "carrera": "Ingeniería de Sistemas",
+    "semestre": 6,
+    "gustos": ["Fútbol", "Motos", "Videojuegos", "Comida picante"],
+    "noGustos": ["Madrugar", "Lluvia", "Tareas largas"],
+    "foto": "https://assetsio.gnwcdn.com/the-witcher-3-best-rpgs.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp"
+}
+
+  

@@ -1,0 +1,9 @@
+{
+    "nombre": "Miguel Casanova",
+    "edad": 20,
+    "carrera": "Ingeniería De Sistemas",
+    "semestre": 5,
+    "gustos": ["Música", "Jazz", "JoJo's", "Superman","Crash Bandicoot", "Beatles"],
+    "noGustos": ["Jugo de guayaba"],
+    "foto": "https://photos.app.goo.gl/KWRyKHFb6Qh9AkHU7"
+}

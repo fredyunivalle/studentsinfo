@@ -1,0 +1,9 @@
+{
+    "nombre": "Jose Daniel Trujillo Suarez",
+    "edad": 20,
+    "carrera": "Ingenieria En Sistemas",
+    "semestre": 6,
+    "gustos": ["Video Juegos", "Cine", "Ejercicio", "Cocinar"],
+    "noGustos": ["Brocoli", "Ruido fuerte"],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Albert_Einstein_sticks_his_tongue_1951.jpg/250px-Albert_Einstein_sticks_his_tongue_1951.jpg"
+}
