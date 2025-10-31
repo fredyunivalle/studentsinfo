@@ -1,0 +1,20 @@
+{
+    "nombre": "Sarahy Gisselle Caicedo Betancourth",
+    "edad": 20,
+    "carrera": "Tecnología en Desarrollo de Software",
+    "semestre": 6,
+    "gustos": [
+        "Natación",
+        "Videojuegos",
+        "Manga",
+        "Anime",
+        "Peliculas de ciencia ficción"
+    ],
+    "noGustos": [
+        "Los lunes",
+        "habicuelas",
+        "levantarme temprano"
+    ],
+    "foto": "https://scontent.fclo3-2.fna.fbcdn.net/v/t39.30808-6/409176032_906103350859757_4347645987983515366_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeERVTDPxPSo0tOgNmuhQH2Ess3YJ1RU3_KyzdgnVFTf8gOwkzXy-DuUSgvJmcTq-jfgiVoN62hBBc_AWEVVAZto&_nc_ohc=L6_taRXpZ3gQ7kNvgFug8oQ&_nc_ht=scontent.fclo3-2.fna&_nc_gid=AfSkewG1MaSj6qxnMZLKV_n&oh=00_AYDK0Iw-RPxQuctG7Q_QAkejuuTG-zikzHtA8OD4_RjNwA&oe=67088366",
+    "socialMedia": "https://www.facebook.com/gisselle.betancourth.71/"
+}

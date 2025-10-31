@@ -1,0 +1,19 @@
+{
+    "nombre": "Nicolás Granada Fernández",
+    "edad": 24,
+    "carrera": "Ingeniería en sistemas",
+    "semestre": 6,
+    "gustos": [
+        "Fútbol",
+        "Videojuegos",
+        "Musica",
+        "Comer"
+        
+    ],
+    "noGustos": [
+        "Madrugar",
+        "Trasnochar"
+    ],
+    "foto": "https://lh3.googleusercontent.com/a/ACg8ocIE0w1ZeQKs93E0t_wob1CQjiiqdCwToeYz84y2Rh1Zkd9LRwEu=s288-c-no",
+    "socialMedia": "https://www.facebook.com/nicogfer.10"
+}

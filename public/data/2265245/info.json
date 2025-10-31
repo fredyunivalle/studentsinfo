@@ -1,0 +1,19 @@
+{
+    "nombre": "Daniel Mauricio Gomez",
+    "edad": 20,
+    "carrera": "Tecnologia en Desarrollo de Software",
+    "semestre": 5,
+    "gustos": [
+        "El pan",
+        "Dibujar",
+        "Dormir",
+        "Ejercicio",
+        "El frio"
+    ],
+    "noGustos": [
+        "Interactuar con mucha gente",
+        "Las mentiras"
+    ],
+    "foto": "https://lh3.googleusercontent.com/a/ACg8ocJYz0yoktn7pC8iArmgCtz8y8NFYHwnpcZUqac-N8xDZTmXCYQ=s432-c-no",
+    "socialMedia": "https://www.facebook.com/profile.php?id=100015134473846&locale=es_LA"
+}
